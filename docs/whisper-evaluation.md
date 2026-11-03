@@ -1,6 +1,6 @@
 # Whisper on Rohingya audio: evaluation
 
-Hari, 2 Nov 2026. Data: `freococo/rohingya_asr_audio` (VOA Rohingya broadcasts), shard 0.
+Data: `freococo/rohingya_asr_audio` (VOA Rohingya broadcasts), shard 0.
 
 ## What this is
 
